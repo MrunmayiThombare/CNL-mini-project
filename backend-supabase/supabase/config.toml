@@ -1,0 +1,11 @@
+project_id = "geotrace"
+
+[api]
+enabled = true
+port = 54321
+
+[functions.dns-lookup]
+verify_jwt = false
+
+[functions.traceroute]
+verify_jwt = false
