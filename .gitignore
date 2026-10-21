@@ -20,3 +20,5 @@ supabase/.branches/
 .vscode/
 .idea/
 *.log
+# Supabase CLI temp folders (any depth)
+**/.temp/
